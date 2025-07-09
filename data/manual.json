@@ -581,6 +581,17 @@
         "split-and-window",
         "plugin"
       ]
+    },
+    {
+      "type": "github",
+      "username": "Sileltr",
+      "repo": "LazyDevHelper",
+      "tags": [
+        "pip",
+        "utility",
+        "plugin",
+        "python"
+      ]
     }
   ]
 }
